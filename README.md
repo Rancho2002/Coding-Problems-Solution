@@ -7,3 +7,9 @@ In this code, total marks & marks in PCM is taken from user. If user get 33% or 
 # Sum & Average With Pointers
 
 In this Problem, two integers are taken from user and user get sum and Average at a time as an output.
+
+
+# Problem 3
+# Find Maximum of Four Numbers
+
+// Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments(integers) and returns the greatest of them. (source: HacckerRank)
