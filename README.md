@@ -21,3 +21,8 @@ Write a function int max_of_four(int a, int b, int c, int d) which reads four ar
 # Find Mean of given numbers without taking how many digits are there from user
 
 input file ::
+
+![input](https://user-images.githubusercontent.com/92109154/163706627-e962dc21-7fa8-4804-b90c-d8e775218416.png)
+output file :: 
+
+![output](https://user-images.githubusercontent.com/92109154/163706633-8050fd24-4c11-4241-8a63-f4d91b7f129d.png)
